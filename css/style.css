@@ -66,3 +66,7 @@ html, body{
 	font-weight: bold;
 	display: inline-block;
 }
+
+.card_wr {
+    margin: 10px 0;
+}
